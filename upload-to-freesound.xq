@@ -4,6 +4,7 @@ xquery version "3.1";
 : dependencies `xdg-open`,`basex`
 : @author ilmarikoria@posteo.net
 : @version 0.1
+: Apply for API creds via `https://freesound.org/apiv2/apply`
 : TODO
 : TODO client secrets as external crypto file (use basex)
 :)
