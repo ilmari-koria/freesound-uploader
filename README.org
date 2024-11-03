@@ -1,3 +1,4 @@
-Upload sounds to Freesound.org using XQuery.
+Upload sounds to Freesound.org using XQuery + RESTXQ.
 
-Add files to `./input/` and run `run.sh`
+(Wip...)
+
