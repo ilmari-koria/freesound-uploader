@@ -1,4 +1,4 @@
-Upload sounds to Freesound.org using XQuery + RESTXQ.
+Upload sounds to Freesound.org using BaseX XQuery + RESTXQ.
 
 (Wip...)
 
